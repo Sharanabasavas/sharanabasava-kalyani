@@ -1,4 +1,4 @@
-# sharanabasava-kalyani                                                                                                                                                               21ETMC412030
+# Sharanabasava-Kalyani                                                                                                                                                               21ETMC412030
 
 Machine Learning Classification: Underfitting, Overfitting, and Bias-Variance Trade-Off
 Project Overview
