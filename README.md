@@ -1,6 +1,7 @@
 # Sharanabasava-Kalyani                                                                                                                                                               21ETMC412030
 
 Machine Learning Classification: Underfitting, Overfitting, and Bias-Variance Trade-Off
+
 Project Overview
 
 This project aims to demonstrate and explore the concepts of underfitting, overfitting, and the bias-variance trade-off in machine learning classification problems. It investigates the performance of various classification models, including Logistic Regression, Random Forest, and Decision Tree, across varying complexities. Key preprocessing techniques employed include handling class imbalance using SMOTE, feature selection via SelectKBest, and thorough model evaluation through metrics such as accuracy, confusion matrix, ROC curve, and learning curve analysis.
